@@ -1,0 +1,11 @@
+C:\Users\Abdullah\source\repos\CSAssignmentEmp\bin\Debug\CSAssignmentEmp.exe.config
+C:\Users\Abdullah\source\repos\CSAssignmentEmp\bin\Debug\CSAssignmentEmp.exe
+C:\Users\Abdullah\source\repos\CSAssignmentEmp\bin\Debug\CSAssignmentEmp.pdb
+C:\Users\Abdullah\source\repos\CSAssignmentEmp\obj\Debug\CSAssignmentEmp.csproj.AssemblyReference.cache
+C:\Users\Abdullah\source\repos\CSAssignmentEmp\obj\Debug\CSAssignmentEmp.csproj.SuggestedBindingRedirects.cache
+C:\Users\Abdullah\source\repos\CSAssignmentEmp\obj\Debug\CSAssignmentEmp.Form1.resources
+C:\Users\Abdullah\source\repos\CSAssignmentEmp\obj\Debug\CSAssignmentEmp.Properties.Resources.resources
+C:\Users\Abdullah\source\repos\CSAssignmentEmp\obj\Debug\CSAssignmentEmp.csproj.GenerateResource.cache
+C:\Users\Abdullah\source\repos\CSAssignmentEmp\obj\Debug\CSAssignmentEmp.csproj.CoreCompileInputs.cache
+C:\Users\Abdullah\source\repos\CSAssignmentEmp\obj\Debug\CSAssignmentEmp.exe
+C:\Users\Abdullah\source\repos\CSAssignmentEmp\obj\Debug\CSAssignmentEmp.pdb
